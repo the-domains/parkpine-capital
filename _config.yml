@@ -1,6 +1,6 @@
 name: Parkpine Capital
 favicon: null
-layout_spectrum: 0.19803969305939972
+layout_spectrum: 0.25415
 typography_spectrum: 0.6136593474075198
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.11820916039869189
+  brandStrength: 0.625
   lightness: 0.21711190324276686
-  saturation: 0.38249338627792895
+  saturation: 0.3125
   rhythmicContrast: 0.39167046919465065
 purpose: []
