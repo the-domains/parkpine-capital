@@ -1,0 +1,28 @@
+name: Parkpine Capital
+favicon: null
+layout_spectrum: 0.19803969305939972
+typography_spectrum: 0.6136593474075198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11820916039869189
+  lightness: 0.21711190324276686
+  saturation: 0.38249338627792895
+  rhythmicContrast: 0.39167046919465065
+purpose: []
