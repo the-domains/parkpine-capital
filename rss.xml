@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Parkpine Capital]]></title>
+        <description><![CDATA[Parkpine Capital]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 03:28:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined2adb1d39-079d-4095-a07a-d4feebc086c5/index.html</link>
+            <guid isPermaLink="false">2adb1d39-079d-4095-a07a-d4feebc086c5</guid>
+            <pubDate>Thu, 17 Mar 2016 03:28:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
